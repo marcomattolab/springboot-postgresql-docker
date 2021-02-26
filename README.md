@@ -1,4 +1,4 @@
-# Spring Boot with PostgreSQL with docker compose for URBANITE demo (Target System)
+# Spring Boot with PostgreSQL with docker compose
 ## STEPS FOR THIS SPRING BOOT APP
 - Define dependencies in build.gradle
 - Create a Spring Boot Main @SpringBootApplication
